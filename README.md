@@ -1,4 +1,4 @@
-# Low contrast Solarized Light and Dark color schemes for the KDE Plasma desktop
+# Low contrast Solarized Light and Dark color schemes for KDE Plasma
 Solarized color schemes may be useful in case you have astigmatism or other sight related issues that benefit from a low contrast setup.
 
 Download the .colors files from this repo and save them in `$HOME/.local/share/color-schemes`. Create the color-schemes folder if it doesn't exist. Starting with KDE Plasma 6.6, you can create custom global themes that use these schemes by default from the Settings app. https://kde.org/announcements/plasma/6/6.6.0/
